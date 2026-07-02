@@ -65,6 +65,10 @@ bazi/
     └── topics.md         # 分类解答手册
 ```
 
+## 英文版
+
+面向英文用户的姊妹 skill（术语本地化为 Mentor/Maverick 等原型、UTC offset 含夏令时、公历年份叙事）：[four-pillars-claude-skill](https://github.com/ruthless-coder-ai/four-pillars-claude-skill)
+
 ## 声明
 
 传统命理是文化遗产，不是科学预测。本工具的解读供参考与自我觉察之用，不构成医疗、法律或投资建议。
